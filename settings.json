@@ -1,15 +1,16 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "tomaten_bot",
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "ewigetomate5nK6.aternos.me",
+    "port": 47100,
     "version": "1.19.3"
   },
+
 
   "position": {
     "enabled": false,
